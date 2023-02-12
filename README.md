@@ -29,8 +29,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Portrait Orientation GIF
+<img src='https://github.com/ShanuA123/FlixsterProject3/blob/master/Project3_GIF_Portrait.gif'/>
+LandScape Orientation GIF
+<img src='https://github.com/ShanuA123/FlixsterProject3/blob/master/Project3_GIF_LandScape.gif'/>
+Glide Placeholder Implemention ScreenCap
+<img src='https://github.com/ShanuA123/FlixsterProject3/blob/master/Project3_PlaceHolderCode_ScreenCap.png'\>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
