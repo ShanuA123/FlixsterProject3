@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 LandScape Orientation GIF
 <img src='https://github.com/ShanuA123/FlixsterProject3/blob/master/Project3_GIF_LandScape.gif'/>
 Glide Placeholder Implemention ScreenCap
-<img src='https://github.com/ShanuA123/FlixsterProject3/blob/master/Project3_PlaceHolderCode_ScreenCap.png'\>
+<img src='\>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
